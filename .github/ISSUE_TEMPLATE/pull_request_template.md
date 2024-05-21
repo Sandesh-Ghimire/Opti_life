@@ -1,11 +1,3 @@
----
-name: Pr template
-about: Describe this issue template's purpose here.
-title: ""
-labels: ""
-priority: ""
----
-
 ## Describe your changes
 
 ## Issue ticket number
