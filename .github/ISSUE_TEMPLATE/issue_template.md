@@ -1,3 +1,11 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ""
+labels: ""
+priority: ""
+---
+
 # Prerequisites
 
 Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THE PREREQUISITES SECTION.**
